@@ -9,13 +9,13 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: I am a Cloud Engineer from South Korea.<br/>
-  #### :fire: I aim to become a Cloud AI Engineer.<br/>
-  #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
+  #### :raising_hand: i'm seokchu.<br/>
+  #### :fire: I aim to become an information security professional.<br/>
+  #### :mortar_board: Bachelor of of computer engineering, Hanbat National University(HBNU)
   <br/>
   <br/>
   
-  ## 🧱 Tech Stack
+  ## 📚 Tech Stack
   ### Language
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -25,11 +25,27 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <!--CSS-->
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+  <!--C-->
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white"/>
+  <!--C++-->
+  <img src="https://img.shields.io/badge/-C++-blue?logo=cplusplus"/>
   <br/>
 
   ### Library
-  <!--PyTorch-->
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
+  <!--scikit learn-->
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <!--Pandas-->
+  <img src="https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas"/>
+  <!--Numpy-->
+  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <!--Matplotlib-->
+  <img src="https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python"/>
+  <!--Scipy-->
+  <img src="https://img.shields.io/badge/-Scipy-blue?style=flat&logo=Scipy&logoColor=white"/>
+  <!--Selenium-->
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
+  <!--BeautifulSoup-4-->
+  <img src="https://shields.io/badge/BeautifulSoup-4-green"/>
   <!--Selenium-->
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
   <br/>
@@ -37,31 +53,27 @@
   ### Framework
   <!--Flask-->
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
-  <!--Django-->
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
   <!--React-->
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white&Color=white"/>
   <br/>
   
   ### ETC
-  <!--Amazon AWS-->
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
-  <!--Slack-->
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
-  <!--MySQL-->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  <!--Matlab-->
+  <img src="https://img.shields.io/badge/Matlab-FF7733?style=for-the-badge&logo=MEGA&logoColor=white"/>
+  <!--Linux-->
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <br/>
   <br/>
   
   ## 🤔 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiyu-Kim)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seokchu)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiyu-Kim)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seokchu)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
 <!--
-**Jiyu-Kim/Jiyu-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**seokchu/seokchu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 - Hi there 👋
