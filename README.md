@@ -46,8 +46,6 @@
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
   <!--BeautifulSoup-4-->
   <img src="https://shields.io/badge/BeautifulSoup-4-green"/>
-  <!--Selenium-->
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
   <br/>
   
   ### Framework
