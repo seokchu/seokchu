@@ -108,6 +108,9 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
   <!--React-->
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white&Color=white"/>
+  <!-- Qiskit -->
+  <img src="https://img.shields.io/badge/Qiskit-512BD4?style=for-the-badge&logo=Qiskit&logoColor=white" alt="Qiskit"/>
+
   <br/>
   
   ### ETC
@@ -115,6 +118,8 @@
   <img src="https://img.shields.io/badge/Matlab-FF7733?style=for-the-badge&logo=MEGA&logoColor=white"/>
   <!--Linux-->
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <!-- IBM Quantum -->
+  <img src="https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=IBM&logoColor=white" alt="IBM"/>
   <br/>
   <br/>
   
