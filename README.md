@@ -9,7 +9,7 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: i'm seokchu.<br/>
+  #### :raising_hand: i'm Hyeonseok Jang.<br/>
   #### :fire: I aim to become an information security professional.<br/>
   #### :mortar_board: Bachelor of of computer engineering, Hanbat National University(HBNU)
   <br/>
