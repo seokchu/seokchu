@@ -11,9 +11,64 @@
   ## 👀 About Me
   #### :raising_hand: i'm Hyeonseok Jang.<br/>
   #### :fire: I aim to become an information security professional.<br/>
-  #### :mortar_board: Bachelor of of computer engineering, Hanbat National University(HBNU)
+  #### :mortar_board: Bachelor of computer engineering, Hanbat National University(HBNU)
   <br/>
   <br/>
+
+### :trophy: My Achievements
+
+<table border="1">
+  <thead>
+    <tr>
+      <th>Year</th>
+      <th>Achievement</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2025</td>
+      <td>ABC 프로젝트 멘토링 9기</td>
+      <td>블록체인 기반 실시간 키보드 입력 암호화 시스템 구축</td>
+    </tr>
+    <tr>
+      <td>2025</td>
+      <td>하계종합학술대회</td>
+      <td>이상치 탐지 성능 향상을 위한 MI-FGSM 데이터 증강 기법</td>
+    </tr>
+    <tr>
+      <td>2025</td>
+      <td>통신학회 아이디어경진대회</td>
+      <td>'생성형 AI를 활용한 ICT 융합사회문제 해결' 부문 참가</td>
+    </tr>
+    <tr>
+      <td>2025</td>
+      <td>동계종합학술대회</td>
+      <td>DBA K-Means 군집화 알고리즘 기반 화공산업 전력 사용량 이상치 탐지</td>
+    </tr>
+    <tr>
+      <td>2025</td>
+      <td>IRO 2024/25 세계대회</td>
+      <td>제 26회 국제로봇올림피아드 진행요원</td>
+    </tr>
+    <tr>
+      <td>2024</td>
+      <td>한밭한마음 공모전</td>
+      <td>로고, 슬로건 부문 참가</td>
+    </tr>
+    <tr>
+      <td>2024</td>
+      <td>학생설계전공개발 공모전</td>
+      <td>'학생설계전공 - 정보보안학과' 수상</td>
+    </tr>
+    <tr>
+      <td>2022</td>
+      <td>IEEE 정보검색대회</td>
+      <td>제 9회 IEEE 정보검색대회 수상</td>
+    </tr>
+  </tbody>
+</table>
+
   
   ## 📚 Tech Stack
   ### Language
