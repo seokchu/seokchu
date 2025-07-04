@@ -101,6 +101,8 @@
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
   <!--BeautifulSoup-4-->
   <img src="https://shields.io/badge/BeautifulSoup-4-green"/>
+  <!-- YOLO -->
+  <img src="https://img.shields.io/badge/-YOLO-FFCC00?style=flat&logo=python&logoColor=white&size=40x40" alt="YOLO"/>
   <br/>
   
   ### Framework
@@ -110,6 +112,9 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white&Color=white"/>
   <!-- Qiskit -->
   <img src="https://img.shields.io/badge/Qiskit-512BD4?style=for-the-badge&logo=Qiskit&logoColor=white" alt="Qiskit"/>
+  <!-- ROS1 -->
+  <img src="https://img.shields.io/badge/ROS1-Noetic-green" alt="ROS1"/>
+  
 
   <br/>
   
