@@ -28,8 +28,8 @@
   <tbody>
     <tr>
       <td>2025</td>
-      <td>A Comparative Study of Customized Algorithms for Anomaly Detection in Industry-Specific Power Data</td>
-      <td>2저자 참여(SCIE)</td>
+      <td>A Comparative Study of Customized Algorithms for Anomaly Detection in Industry-Specific Power Data(SCIE)</td>
+      <td>2저자 참여</td>
     </tr>
     <tr>
       <td>2025</td>
