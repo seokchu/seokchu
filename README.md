@@ -29,7 +29,7 @@
     <tr>
       <td>2025</td>
       <td>A Comparative Study of Customized Algorithms for Anomaly Detection in Industry-Specific Power Data(SCIE)</td>
-      <td>2저자 참여</td>
+      <td>DBA K-Means 모델 부분 참여(2저자)</td>
     </tr>
     <tr>
       <td>2025</td>
