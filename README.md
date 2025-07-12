@@ -28,6 +28,11 @@
   <tbody>
     <tr>
       <td>2025</td>
+      <td>A Comparative Study of Customized Algorithms for Anomaly Detection in Industry-Specific Power Data</td>
+      <td>2저자 참여(SCIE)</td>
+    </tr>
+    <tr>
+      <td>2025</td>
       <td>ABC 프로젝트 멘토링 9기</td>
       <td>블록체인 기반 실시간 키보드 입력 암호화 시스템 구축</td>
     </tr>
