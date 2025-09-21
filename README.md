@@ -15,6 +15,15 @@
   <br/>
   <br/>
 
+## 📢 Media Mentions
+
+- **로컬투데이**
+  - [기사 바로가기](https://www.localtoday.co.kr/news/articleView.html?idxno=328094)
+- **이슈메이커**
+  - [기사 바로가기](https://www.issuemaker.kr/news/articleView.html?idxno=50680)
+- **시사매거진**
+  - [기사 바로가기](https://www.sisamagazine.co.kr/news/articleView.html?idxno=511028)
+
 ### :trophy: My Achievements
 
 <table border="1">
