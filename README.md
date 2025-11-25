@@ -23,6 +23,8 @@
   - [기사 바로가기](https://www.issuemaker.kr/news/articleView.html?idxno=50680)
 - **시사매거진**
   - [기사 바로가기](https://www.sisamagazine.co.kr/news/articleView.html?idxno=511028)
+- **디트News24**
+  - [기사 바로가기](https://www.dtnews24.com/news/articleView.html?idxno=802081)
 
 ### :trophy: My Achievements
 
