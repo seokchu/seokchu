@@ -39,6 +39,16 @@
   <tbody>
     <tr>
       <td>2026</td>
+      <td>AAAI (Student Abstract)</td>
+      <td>Multi-Stage Reinforcement Learning for Robust Charging of Quantum Batteries(2저자)</td>
+    </tr>
+    <tr>
+      <td>2026</td>
+      <td>IEEE Transactions on Quantum Engineering</td>
+      <td>Measurement-Informed Safe Reinforcement Learning for Quantum Battery Charging via Harmonic-Syndrome Diagnostics and BMS Constraints(3저자)</td>
+    </tr>
+    <tr>
+      <td>2026</td>
       <td>통신학회 동계학술대회</td>
       <td>비마르코프 환경의 OQBs 충전 최적화를 위한 LSTM-SAC 프레임워크(포스터, 1저자)</td>
     </tr>
