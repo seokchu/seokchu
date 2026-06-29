@@ -39,6 +39,36 @@
   <tbody>
     <tr>
       <td>2026</td>
+      <td>IJCAI 2026 Workshop on GLOW</td>
+      <td>When Curriculum Becomes Critical: Automated Physics-Grounded Task Progressions for Open Quantum Control(2저자)</td>
+    </tr>
+    <tr>
+      <td>2026</td>
+      <td>IJCAI-ECAI 2026 (AI4Tech Special Track)</td>
+      <td>DEPLOY-RL: Active Boundary Discovery and Conservative Certification for Deployable Reinforcement Learning in Safety-Critical Continuous Processes(7저자)</td>
+    </tr>
+    <tr>
+      <td>2026</td>
+      <td>전자공학회 하계종합학술대회</td>
+      <td>회전 표면 부호 기반 양자 오류 정정을 위한 경량 MLP 디코더의 양자화 및 FPGA 매핑 적합성 분석(3저자)</td>
+    </tr>
+    <tr>
+      <td>2026</td>
+      <td>전자공학회 하계종합학술대회</td>
+      <td>긍정, 부정 기여 분석과 선택적 호출 게이트 기반 표면 부호 AI 사전 디코더의 호출 보정(2저자)</td>
+    </tr>
+    <tr>
+      <td>2026</td>
+      <td>전자공학회 하계종합학술대회</td>
+      <td>엣지 환경에서의 QEC를 위한 Hybrid 지식 증류 기반의 PTQ 경량화 파이프라인 설계(1저자)</td>
+    </tr>
+    <tr>
+      <td>2026</td>
+      <td>2026 ABC 프로젝트 멘토링</td>
+      <td>양자 오류 정정(QEC) AI 가속기를 위한 RTL 기반 SoC 설계 및 검증</td>
+    </tr>
+    <tr>
+      <td>2026</td>
       <td>AAAI (Student Abstract)</td>
       <td>Multi-Stage Reinforcement Learning for Robust Charging of Quantum Batteries(2저자)</td>
     </tr>
@@ -50,27 +80,42 @@
     <tr>
       <td>2026</td>
       <td>통신학회 동계학술대회</td>
-      <td>비마르코프 환경의 OQBs 충전 최적화를 위한 LSTM-SAC 프레임워크(포스터, 1저자)</td>
+      <td>개방 양자계 환경에서의 양자 배터리 충전 프로토콜 최적화를 위한 커리큘럼 강화학습 프레임워크</td>
+    </tr>
+    <tr>
+      <td>2026</td>
+      <td>통신학회 동계학술대회</td>
+      <td>물리 지식 기반 그래프 트랜스포머 강화학습을 이용한 강건한 양자 배터리 충전 최적화</td>
+    </tr>
+    <tr>
+      <td>2026</td>
+      <td>통신학회 동계학술대회</td>
+      <td>비마르코프 환경의 OQBs 충전 최적화를 위한 LSTM-SAC 프레임워크(포스터)</td>
     </tr>
     <tr>
       <td>2025</td>
-      <td>통신학회 추계학술대회</td>
-      <td>단계적 강화학습 프레임워크를 통한 강건한 양자 배터리 충전(포스터, 2저자) 장려상 수상</td>
-    </tr>
-    <tr>
-      <td>2025</td>
-      <td>통신학회 추계학술대회</td>
-      <td>비마르코프 노이즈를 활용한 PPO 기반 양자 배터리 충전 프로토콜 최적화(포스터)</td>
+      <td>통신학회 추계학술대회 캡스톤 경진대회</td>
+      <td>양자배터리 초흡수 이득 극대화를 위한 그래프 기반 강화학습 충전 제어(우수상)</td>
     </tr>
      <tr>
       <td>2025</td>
-      <td>통신학회 추계학술대회 캡스톤 경진대회</td>
-      <td>양자배터리 초흡수 이득 극대화를 위한 그래프 기반 강화학습 충전 제어</td>
+      <td>patent</td>
+      <td>커리큘럼 강화학습을 이용한 양자 배터리의 강건한 충전 시스템(국립한밭대학교 (출원번호: 10-2025-0162492), 기여도 15%)</td>
     </tr>
     <tr>
       <td>2025</td>
       <td>통신학회 추계학술대회</td>
-      <td>그래프 신경망 기반 강화학습을 통한 양자 배터리 초흡수 이득 활용(구두발표, 2저자)</td>
+      <td>단계적 강화학습 프레임워크를 통한 강건한 양자 배터리 충전(장려상)</td>
+    </tr>
+    <tr>
+      <td>2025</td>
+      <td>통신학회 추계학술대회</td>
+      <td>그래프 신경망 기반 강화학습을 통한 양자 배터리 초흡수 이득 활용(구두)</td>
+    </tr>
+    <tr>
+      <td>2025</td>
+      <td>통신학회 추계학술대회</td>
+      <td>비마르코프 노이즈를 활용한 PPO 기반 양자 배터리 충전 프로토콜 최적화(포스터)</td>
     </tr>
     <tr>
       <td>2025</td>
@@ -90,7 +135,7 @@
     <tr>
       <td>2025</td>
       <td>산학협력프로젝트</td>
-      <td>(주)ARGOON과 자율주행 차량 알고리즘 개발 프로젝트(진행중)</td>
+      <td>(주)ARGOON과 자율주행 차량 알고리즘 개발 프로젝트</td>
     </tr>
     <tr>
       <td>2025</td>
